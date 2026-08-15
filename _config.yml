@@ -1,13 +1,18 @@
-name: BPM_Updates
-theme: Cleansing Music Files
-title: Pekaer58's project homepage
-description: Unsatisfied w/ missing data in audio files, it's time to fix them!
-last update: 15.08.2026
+url: "https://pekaer58.github.io"
+baseurl: "/BPM_Updates"
+title: "BPM_Updates"
 
-print: Thanks to 'SongBPM.com' for providing the API key
+# Headline + short tagline (used for templates or meta)
+headline: "SongBPM Integration for Accurate Metadata"
+tagline: "Use SongBPM to auto-populate BPM and clean audio file data."
+tagline: "Tune Up Your Tracks" with "Quick fixes for BPMs and metadata"
 
-Visit
-<a href="https://songbpm.com">SongBPM.com</a>
+# Optional: HTML hero content (multi-line block scalar)
+hero_html: |
+  <h1>SongBPM Integration for Accurate Metadata</h1>
+  <p>Use SongBPM to auto-populate BPM and clean audio file data.</p>
 
-
-© by PeKaeR 2026
+# Footer text (multi-line block scalar — keeps YAML valid)
+footer: |
+  Thanks to 'SongBPM.com' for providing the API key
+  Visit <a href="https://songbpm.com">SongBPM.com</a>
