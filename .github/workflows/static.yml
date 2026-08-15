@@ -1,5 +1,8 @@
+theme: Cleansing Music Files
+title: Pekaer58's project homepage
+description: Unsatisfied w/ missing data in audio files, it's time to fix them!
 # Simple workflow for deploying static content to GitHub Pages
-name: BPM_Song_Updates
+name: BPM_Updates
 
 on:
   # Runs on pushes targeting the default branch
