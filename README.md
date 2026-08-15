@@ -1,4 +1,4 @@
-# BPM_Updates - Project for BPM IDtag provision
-Thanks to ‘SongBPM.com' for providing the API key :-)
+BPM_Updates - Project for IDtag provision (BPM)
+Thanks to 'SongBPM.com' for providing the API key :-)
 
-<a href="https://songbpm.com”>SongBPM.com</a>
+[SongBPM.com](https://songbpm.com)
