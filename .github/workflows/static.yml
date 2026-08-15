@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Repo: BPM_Song_Updates
+name: BPM_Song_Updates
 
 on:
   # Runs on pushes targeting the default branch
