@@ -4,7 +4,10 @@ title: "BPM_Updates"
 
 # Headline + short tagline (used for templates or meta)
 headline: "SongBPM Integration for Accurate Metadata"
-tagline: 
+
+tagline: |
+  Use SongBPM to auto-populate BPM and clean audio file data.
+  Tune Up Your Tracks with Quick fixes for BPMs and metadata
 - "Use SongBPM to auto-populate BPM and clean audio file data."
 - "Tune Up Your Tracks" with "Quick fixes for BPMs and metadata"
 
